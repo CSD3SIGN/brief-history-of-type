@@ -7,6 +7,6 @@ A Brief History of Type
 -[Version 1](https://ixdcraig.github.io/brief-history-of-type/baskerville1.html)
 
 ###7th November 2016
--[Version 2](https://github.com/ixdCraig/brief-history-of-type/baskerville2.html) 
+-[Version 2](https://ixdcraig.github.io/brief-history-of-type/baskerville2.html) 
 
--[Version 3](https://github.com/ixdCraig/brief-history-of-type/baskerville3.html)
+-[Version 3](https://ixdcraig.github.io/brief-history-of-type/baskerville3.html)
