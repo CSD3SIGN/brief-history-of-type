@@ -25,3 +25,6 @@ A Brief History of Type
 -[Version 2](https://ixdcraig.github.io/brief-history-of-type/history2.html) - Added simple navigation, links and anchors to each section.
 
 -[Version 3](https://ixdcraig.github.io/brief-history-of-type/history3.html) - Created nested list using unordered and order list items.
+
+###14th November 2016
+-[Version 4](https://ixdcraig.github.io/brief-history-of-type/history4.html) - Changed nested list to table
