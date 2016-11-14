@@ -22,5 +22,6 @@ A Brief History of Type
 -[Version 1](https://ixdcraig.github.io/brief-history-of-type/history1.html) - Marked up plain text file as an HTML5 page.
 
 ###7th November 2016
--[Version 2](https://ixdcraig.github.io/brief-history-of-type/history1.html) - Added simple navigation, links and anchors to each section.
+-[Version 2](https://ixdcraig.github.io/brief-history-of-type/history2.html) - Added simple navigation, links and anchors to each section.
 
+-[Version 3](https://ixdcraig.github.io/brief-history-of-type/history3.html) - Created nested list using unordered and order list items.
