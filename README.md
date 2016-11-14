@@ -15,3 +15,12 @@ A Brief History of Type
 -[Version 4](https://ixdcraig.github.io/brief-history-of-type/baskerville4.html) - Changed nested list to table.
 
 -[Version 5](https://ixdcraig.github.io/brief-history-of-type/baskerville5.html) - Added optimised images to each section.
+
+##History of Type
+
+###31st October 2016
+-[Version 1](https://ixdcraig.github.io/brief-history-of-type/history1.html) - Marked up plain text file as an HTML5 page.
+
+###7th November 2016
+-[Version 2](https://ixdcraig.github.io/brief-history-of-type/history1.html) - Added simple navigation, links and anchors to each section.
+
