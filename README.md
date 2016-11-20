@@ -28,3 +28,6 @@ A Brief History of Type
 
 ###14th November 2016
 -[Version 4](https://ixdcraig.github.io/brief-history-of-type/history4.html) - Changed nested list to table
+
+###20th Novmeber 2016
+-[Version 5](https://ixdcraig.github.io/brief-history-of-type/history5.html) - Added optimised images to each section
