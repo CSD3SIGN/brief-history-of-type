@@ -31,3 +31,6 @@ A Brief History of Type
 
 ###20th Novmeber 2016
 -[Version 5](https://ixdcraig.github.io/brief-history-of-type/history5.html) - Added optimised images to each section
+
+###25th November 2016
+-[Version 6](https://ixdcraig.github.io/brief-history-of-type/history6.html) - Added table 
