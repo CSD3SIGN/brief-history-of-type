@@ -116,12 +116,34 @@ img {
 /* ------ TABLES ------ */
 
 table {
-    display: block;
-    margin: 1em auto;
-    padding: 0;
-    max-width: 100%;
-    margin-bottom: 2em;}
+    margin: auto;
+    width: 100%;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+}
 
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #c06;
+}
+
+th, td {
+    padding: .6em;
+}
+
+table, td {
+    background: rgba(0,0,0,.1);
+    border: 1px solid #fff;
+}
 /* ------- FOOTER ------ */
 
 footer {
