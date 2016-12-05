@@ -50,3 +50,5 @@ A Brief History of Type
 
 ###5th December 2016
 -[Version 8](https://ixdcraig.github.io/brief-history-of-type/history8.html) - Added CSS to Table
+
+-[Version 9](https://ixdcraig.github.io/brief-history-of-type/history9.html) - Added simple Viewport
