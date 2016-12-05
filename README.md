@@ -24,6 +24,8 @@ A Brief History of Type
 
 -[Version 8](https://ixdcraig.github.io/brief-history-of-type/baskerville8.html) - Added CSS to Table
 
+-[Version 9](https://ixdcraig.github.io/brief-history-of-type/baskerville9.html) - Added simple Viewport
+
 ##History of Type
 
 ###31st October 2016
