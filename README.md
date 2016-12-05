@@ -19,6 +19,9 @@ A Brief History of Type
 ###28th November 2016
 -[Version 6](https://ixdcraig.github.io/brief-history-of-type/baskerville6.html) - Added simple CSS
 
+###5th December 2016
+-[Version 7](https://ixdcraig.github.io/brief-history-of-type/baskerville7.html) - Added Google fonts
+
 ##History of Type
 
 ###31st October 2016
