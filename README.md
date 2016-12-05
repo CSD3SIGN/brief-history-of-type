@@ -17,7 +17,7 @@ A Brief History of Type
 -[Version 5](https://ixdcraig.github.io/brief-history-of-type/baskerville5.html) - Added optimised images to each section.
 
 ###28th November 2016
--[Version 6](https://ixdcraig.github.io/brief-history-of-type/baskerville6.html) - Added CSS
+-[Version 6](https://ixdcraig.github.io/brief-history-of-type/baskerville6.html) - Added simple CSS
 
 ##History of Type
 
@@ -37,3 +37,6 @@ A Brief History of Type
 
 ###25th November 2016
 -[Version 6](https://ixdcraig.github.io/brief-history-of-type/history6.html) - Added table 
+
+###28th November 2016
+-[Version 7](https://ixdcraig.github.io/brief-history-of-type/history7.html) - Added simple CSS
