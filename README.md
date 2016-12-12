@@ -52,3 +52,6 @@ A Brief History of Type
 -[Version 8](https://ixdcraig.github.io/brief-history-of-type/history8.html) - Added CSS to Table
 
 -[Version 9](https://ixdcraig.github.io/brief-history-of-type/history9.html) - Added simple Viewport
+
+##Other Exercises
+-[Week 11/12 Exercise](https://ixdcraig.github.io/brief-history-of-type/week11.html) - Week 11 exercise
